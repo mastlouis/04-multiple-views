@@ -46,3 +46,6 @@ I used the following references for the listed roles in completing this project.
 - [Angular Lifecycle hooks](https://www.freecodecamp.org/news/angular-lifecycle-hooks/)
 - [Pie chart transitions](https://dzone.com/articles/silky-smooth-piechart-transitions-with-react-and-d)
   - [Supplemental pie chart transitions](https://www.d3-graph-gallery.com/graph/pie_changeData.html)
+
+## Screenshot
+![Screenshot](site.png)
